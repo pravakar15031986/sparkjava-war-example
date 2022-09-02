@@ -9,6 +9,6 @@ public class HelloWorld implements SparkApplication {
 
 	@Override
 	public void init() {
-		get("/hello", (req, res) -> "we will use the pull request technology DevOps to automate best and simple way");
+		get("/hello", (req, res) -> "CSM technology DevOps to automate best and simple way");
 	}
 }
